@@ -1,0 +1,57 @@
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.time {
+  width: 61px;
+  height: 22px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.3);
+}
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25px;
+  height: 25px;
+  margin-left: 10px;
+  border-radius: 50%;
+  color: #fff;
+}
+.user {
+  display: flex;
+  justify-content: center;
+  margin-left: -152px;
+}
+.desc {
+  width:400PX;
+  height: 22px;
+  margin-left: 10px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #000;
+}
+.user-img {
+  width: 20px;
+  height: 20px;
+}
+.title {
+  height: 22px;
+  margin-left: 5px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.3);
+}
+.item {
+  margin-top: 20px;
+}
